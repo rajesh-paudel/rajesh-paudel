@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-paudel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajesh-paudel" alt="rajesh-paudel" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk"><img src="https://github-profile-trophy.vercel.app/?username=rajesh-paudel" alt="rajesh-paudel" /></a> </p>
 
 - 🔭 I’m currently working on [chat-app](https://github.com/rajesh-paudel/chat-app)
 
