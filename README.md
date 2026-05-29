@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-paudel" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajesh-paudel&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=rajesh-paudel" />
 </p>
 
 - 🔭 I’m currently working on [chat-app](https://github.com/rajesh-paudel/chat-app)
