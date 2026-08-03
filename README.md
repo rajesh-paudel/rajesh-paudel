@@ -16,5 +16,4 @@ I'm Rajesh Paudel, a BSc CSIT student and software developer from Nepal.<br><br>
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=rajesh-paudel&color=0e75b6)](https://github.com/rajesh-paudel)
+
