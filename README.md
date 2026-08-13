@@ -1,7 +1,10 @@
 
-I'm Rajesh Paudel, a BSc CSIT student and software developer from Nepal.<br><br>- 💻 Passionate about Software Development<br>- ⚛️ Building projects with React, JavaScript, and Firebase<br>- 🌱 Currently learning backend development and cloud technologies<br>- 🚀 Interested in creating scalable and user-friendly applications<br>- 📫 Reach me: rajeshpaudel9863@example.com
-
+I'm Rajesh Paudel, a BSc CSIT student and software developer from Nepal.
 <!--
+
+<br><br>- 💻 Passionate about Software Development<br>- ⚛️ Building projects with React, JavaScript, and Firebase<br>- 🌱 Currently learning backend development and cloud technologies<br>- 🚀 Interested in creating scalable and user-friendly applications<br>- 📫 Reach me: rajeshpaudel9863@example.com
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-paudel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshpaudel9863@gmail.com) 
