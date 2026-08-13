@@ -1,3 +1,4 @@
+<!--
 I'm Rajesh Paudel, a BSc CSIT student and software developer from Nepal.<br><br>- 💻 Passionate about Software Development<br>- ⚛️ Building projects with React, JavaScript, and Firebase<br>- 🌱 Currently learning backend development and cloud technologies<br>- 🚀 Interested in creating scalable and user-friendly applications<br>- 📫 Reach me: rajeshpaudel9863@example.com
 
 
@@ -18,3 +19,5 @@ I'm Rajesh Paudel, a BSc CSIT student and software developer from Nepal.<br><br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajesh-paudel&color=0e75b6)](https://github.com/rajesh-paudel)
+
+-->
