@@ -1,5 +1,12 @@
 
 I'm Rajesh Paudel, a BSc CSIT student and software developer
+<div align="center">
+
+![rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh-paudel&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-paudel&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-paudel&layout=compact&hide_border=true)
+
+</div>
 <!--
 <br><br>- 💻 Passionate about Software Development<br>- ⚛️ Building projects with React, JavaScript, and Firebase<br>- 🌱 Currently learning backend development and cloud technologies<br>- 🚀 Interested in creating scalable and user-friendly applications<br>- 📫 Reach me: rajeshpaudel9863@example.com
 
